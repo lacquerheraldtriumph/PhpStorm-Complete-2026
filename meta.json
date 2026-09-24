@@ -1,0 +1,23 @@
+{
+  "repo": "phpstorm-complete-2026",
+  "product": "PhpStorm Complete 2026",
+  "kind": "developer",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "ide-tools",
+  "topics": [
+    "phpstorm-complete",
+    "phpstorm-windows",
+    "ide-tools-desktop",
+    "how-to-install-phpstorm",
+    "phpstorm-complete-desktop-package",
+    "phpstorm-workspace",
+    "phpstorm-2026",
+    "phpstorm-complete-pro-tools",
+    "phpstorm-suite",
+    "zentool-phpstorm"
+  ],
+  "site": "zentool.art"
+}
